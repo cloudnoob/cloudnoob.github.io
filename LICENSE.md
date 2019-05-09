@@ -29,3 +29,25 @@ HOLDERS
 import re
 jekyll build --future
 ```
+
+```sql
+select * from tables;
+```
+
+
+```yaml
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: ui
+  labels:
+    app: ui
+spec:
+  containers:
+    - name: ui
+      image: 452788666223.dkr.ecr.eu-west-1.amazonaws.com/ui:v2
+      ports:
+        - containerPort: 80
+```
+
