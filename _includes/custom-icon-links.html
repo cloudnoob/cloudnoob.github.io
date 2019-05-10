@@ -1,1 +1,10 @@
-<!-- Optional additional links to insert for icons links -->
+<!-- Optional additional links to insert for icons links 
+https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg
+-->
+{% if site.twitter %}
+<a id="github-link"
+   class="icon" title="Github Project" aria-label="Github Project"
+   href="{{ site.twitter }}">
+  {% include svg/twitter.svg %}
+</a>
+{% endif %}

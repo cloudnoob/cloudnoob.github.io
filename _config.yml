@@ -8,7 +8,8 @@ title:            loudnoob
 tagline:          'A Jekyll theme'
 description:      'Un blog sur les thèmes dev, devops, cloud et automatisation.'
 url:              'https://cloudnoob.github.io'
-hydeout.repo:     'https://cloudnoob.github.io'
+repo:             'https://cloudnoob.github.io'
+twitter:          'https://twitter.com/aevenot'
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
