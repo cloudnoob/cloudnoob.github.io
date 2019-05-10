@@ -4,7 +4,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            loudnoob
+title:            Cloudnoob
 tagline:          'A Jekyll theme'
 description:      'Un blog sur les thèmes dev, devops, cloud et automatisation.'
 url:              'https://cloudnoob.github.io'
