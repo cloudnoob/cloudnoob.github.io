@@ -7,6 +7,7 @@ title:            loudnoob
 tagline:          'A Jekyll theme'
 description:      'Un blog sur les thèmes dev, devops, cloud et automatisation.'
 url:              'https://cloudnoob.github.io'
+hydeout.repo: 'https://cloudnoob.github.io'
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -29,7 +30,7 @@ plugins:
 
 # Sidebar link settings
 sidebar_home_link:  true
-hydeout.repo: 'https://cloudnoob.github.io'
+
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
